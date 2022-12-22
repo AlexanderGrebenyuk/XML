@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<people>
+	<man id="1">
+		<name>Sasha</name>
+		<nationality>Rus</nationality>
+		<age>27</age>
+		<growth unit="см">170</growth>
+	</man>
+</people>
