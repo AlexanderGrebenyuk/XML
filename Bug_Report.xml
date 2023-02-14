@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1809"?>
+<Bug>
+  <ID>01</ID>
+  <Environment>iPhone 13 Pro iOS 16.2</Environment>
+  <Title>В процессе обработки заказа и выключении Wi-Fi, снизу появляется уведомление "Время ожидания ответа от сервера истекло"</Title>
+  <Precondition>Приложение открыто, добавлен 1 товар в корзину</Precondition>
+  <Steps>1. 2. 3. 4. 5.</Steps>
+  <ExpectedResult>Осуществляется переход на страницу оплаты "Сбербанка"</ExpectedResult>
+  <ActualResult>Появляется уведомление "Время ожидания ответа от сервера истекло"</ActualResult>
+  <Attachment>https://drive.google.com/...</Attachment>
+  <Severity>Critical</Severity>
+  <Priority>High</Priority>
+</Bug>
